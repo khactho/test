@@ -22,7 +22,7 @@ struct ContentView: View {
                 .ignoresSafeArea()
             VStack {
                 Spacer()
-                Text("Guess the Flag")
+                Text("Guess the Flag ")
                         .font(.largeTitle.bold())
                         .foregroundColor(.white)
             VStack(spacing: 15) {
